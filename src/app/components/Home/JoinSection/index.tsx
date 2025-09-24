@@ -59,11 +59,11 @@ export default function JoinSection() {
 								key={index}
 								className="bg-white shadow-md rounded-lg p-8 transform transition-transform duration-300 hover:scale-105 hover:shadow-xl"
 							>
-								<h3 className="text-2xl font-bold text-[#102C46] mb-2">Odyssée Formations</h3>
+								<h3 className="text-2xl font-bold text-[#102C46] mb-2">ID Protect</h3>
 								<p className="text-lg font-medium text-[#C5A972] mb-1">Centre de formation</p>
-								<p className="text-sm text-gray-700">18 rue des Partenais</p>
-								<p className="text-sm text-gray-700">37250 VEIGNÉ</p>
-								<p className="text-sm text-gray-700">02 47 38 41 29</p>
+								<p className="text-sm text-gray-700">18 rue de strasbourg</p>
+								<p className="text-sm text-gray-700">67000 STRASBOURG</p>
+								<p className="text-sm text-gray-700">06 01 02 03 04</p>
 							</div>
 						))}
 					</div>
